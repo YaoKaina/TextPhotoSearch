@@ -1,0 +1,24 @@
+body{
+	padding-top:5%;
+	background-color:#F5F6F7;
+}
+.content{
+	margin-top:3%;
+	background-color:#FFFFFF;
+	padding-top:3%;
+}
+.cont-det{
+	margin-bottom:2%;
+}
+.cont-det p{
+	height:3em;
+	overflow: hidden;
+}
+h3{
+	color:#0188FB;
+}
+.bor{
+	border-bottom: 1px solid #0188FB;
+	margin-top:2%;
+	margin-bottom:2%;
+}
